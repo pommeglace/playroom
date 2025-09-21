@@ -1,0 +1,22 @@
+[
+  {
+    "id": "animal1",
+    "image": "/playroom/images/puzzle/neko1.jpg",
+    "label": "かわいい動物",
+    "difficulties": [
+      { "label": "かんたん (2x3)", "rows": 2, "cols": 3 },
+      { "label": "ふつう (3x4)", "rows": 3, "cols": 4 },
+      { "label": "むずかしい (4x4)", "rows": 4, "cols": 4 }
+    ]
+  },
+  {
+    "id": "landscape1",
+    "image": "/playroom/images/puzzle/neko2.jpg",
+    "label": "きれいな景色",
+    "difficulties": [
+      { "label": "かんたん (2x3)", "rows": 2, "cols": 3 },
+      { "label": "ふつう (3x4)", "rows": 3, "cols": 4 },
+      { "label": "むずかしい (4x4)", "rows": 4, "cols": 4 }
+    ]
+  }
+]
